@@ -5,7 +5,7 @@ Project in school
 
 ## Bakgrund
 
-##### SYFTE MED UPPGIFTEN
+##### Syftet med uppgiften är att skapa en hemsida, som ska ge informationen från ett CV/en portfolio.
 
 ## Planering
 ### Innehåll
@@ -14,6 +14,7 @@ Project in school
 
 ### Layout
 
+##### Under arbetets gång så ändrade jag designen på hemsidan för att göra den mer stilren och fångande. Jag valde först att ha hexagoner som sidan zoomar in på, om man trycker på en. I hexagonen visas en av kategorierna ovan. 
 ##### https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129356/assignments/92437/files/getSolution/1177156
 
 ### Färgval
