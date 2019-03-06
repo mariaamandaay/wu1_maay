@@ -10,11 +10,11 @@ Project in school
 ## Planering
 ### Innehåll
 
-##### BESKRIVNING TILL HEMSIDAN
+##### Hemsidan visar 100 ord om mig (profil), mina studier, jobb som jag har haft/har, mina färdigheter, vad jag vill göra i min framtid och kontaktuppgifter. Det är en portfolio som visar information om mig som person och vad jag har gjort, samt vad jag vill göra.
 
 ### Layout
 
-##### FÖRSTA SKISS TILL HEMSIDAN
+##### https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129356/assignments/92437/files/getSolution/1177156
 
 ### Färgval
 
