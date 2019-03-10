@@ -15,7 +15,7 @@ Project in school
 ### Layout
 
 ##### Under arbetets gång så ändrade jag designen på hemsidan för att göra den mer stilren och fångande. Jag valde först att ha hexagoner som sidan zoomar in på, om man trycker på en. I hexagonen visas en av kategorierna ovan. 
-##### https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129356/assignments/92437/files/getSolution/1177156
+##### [Min skiss](https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129356/assignments/92437/files/getSolution/1177156)
 
 ### Färgval
 
@@ -75,6 +75,6 @@ Project in school
 
 ### Mockup
 
-##### LÄNK TILL MOCKUP
+##### [Min mockup](https://drive.google.com/file/d/1r90AD6idVuV135TCCNCMtpI_4CZX3IBm/view?usp=sharing)
 
 ### Tillgänglighet
