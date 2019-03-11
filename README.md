@@ -5,7 +5,7 @@ Project in school
 
 ## Bakgrund
 
-##### Syftet med uppgiften är att skapa en hemsida, som ska ge informationen från ett CV/en portfolio.
+##### Syftet med uppgiften är att skapa en hemsida, med innehåll av ett CV/portfolio. Hemsidan ska innehålla information om en själv. Information om en själv, ens studier, om man har jobb och vad man vill göra i framtiden.
 
 ## Planering
 ### Innehåll
