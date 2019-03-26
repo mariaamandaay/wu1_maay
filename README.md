@@ -14,7 +14,7 @@ Project in school
 
 ### Layout
 
-##### Under arbetets gång så ändrade jag designen på hemsidan för att göra den mer stilren och fångande. Jag valde först att ha hexagoner som sidan zoomar in på, om man trycker på en. I hexagonen visas en av kategorierna ovan. 
+##### Under arbetets gång så ändrade jag designen på hemsidan för att göra den mer stilren och fångande. Jag valde först att ha hexagoner som sidan zoomar in på, om man trycker på en. I hexagonen visas en av kategorierna ovan. Men under terminens gång så har tankarna utvecklats. Hemsidan layout är nu på en enstaka sida, med en bar på toppen av sidan, som följer efter skärmen om man scrollar ner eller upp. Hela sidan är indelad i sex olika delar, som man också kan se på själva baren. 
 ##### [Min skiss](https://progress.thorengruppen.se/api/TIS/schools/tisgot/courses/129356/assignments/92437/files/getSolution/1177156)
 
 ### Färgval
