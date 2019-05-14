@@ -79,7 +79,11 @@ Project in school
 
 ### Tillgänglighet
 
+##### För närvarande endast datorer
+
 ## Dokumentation
+
+##### Vad hände? Problem som du stötte på. Förbättringar som du kan göra nästa gång. Vad skippa du utifrån din mockup, samt vad du behöll.
 
 ### Kod
 ```html
