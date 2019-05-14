@@ -78,3 +78,9 @@ Project in school
 ##### [Min mockup](https://drive.google.com/file/d/1r90AD6idVuV135TCCNCMtpI_4CZX3IBm/view?usp=sharing)
 
 ### Tillgänglighet
+
+## Dokumentation
+
+### Kod
+```html
+
