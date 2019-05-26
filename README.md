@@ -83,7 +83,21 @@ Project in school
 
 ## Dokumentation
 
-##### Vad hände? Problem som du stötte på. Förbättringar som du kan göra nästa gång. Vad skippa du utifrån din mockup, samt vad du behöll.
+##### Syftet med uppgiften som tidigare sagt gick ut på att skapa en hemsida, med information om sig själv. Uppgiften visar våra kunskaper om hur man skapar ett CV/portfolio, i form av en hemsida. Man skall även visa hur man kan på bästa möjliga sätt designa och strukturera koden och den slutgiltiga sidan.
+##### För att påbörja uppgiften skapade jag skisser för att kunna visuellt se hur den slutgiltiga sidan skulle se ut. Med hjälp av photoshop och även Adobe XD så påbörjade jag den digitala mockupen till min hemsida. För att kunna programmera så använde jag mig av Visual Studio Code Den första designen av hemsidan skulle innehålla hexagoner. Dessa hexagoner skulle leda användaren till exempelvis "Profil" eller "Kontaktuppgifter". Under senare tid så valde jag istället att göra något enklare och fräschare. Jag valde att endast ha en bar på toppen av hemsidan, som hjälpmedel för att komma till olika sidor. Detta berodde på att jag ville göra hemsidan mer personlig, och göra något som är mer utifrån mina "smaklökar".
+##### Tanken var att när användaren scrollar ner så ser personen fortfarande baren på toppen av hemsidan. Detta var så att baren ej skulle försvinna och så att man mycket smidigare kan lämna den sidan man är på. Själva hemsidan skulle samt bestå utav en lång sida som man scrollar genom. Resultatet blev istället 6 sidor som täcker skärmen och inget mer. Detta ansåg jag vara en mer lockande design på hemsidan, eftersom sidorna ser mindre ut och inte lika långa och tråkiga. 
+
+#### Fördelar
+
+##### Hemsidan blev personlig och visar vad jag är för slags person. Jag dras mer till det stilrena. Därför valde jag också att ha en enkelt vit bakgrund så att det inte skulle bli alldeles för många färger. Huvudfärgerna jag valde är pastell och mjuka. Funktionaliteten av hemsidan blev också väldigt bra. Den fungerar smidigt och fint.
+
+#### Nackdelar
+
+##### Animationen av pilen till baren fungerade inte så bra, därför var jag tvungen att ta bort den och istället låta den hoppa från en sida till en annan. Tyvärr så har jag inte heller anpassat hemsidan till någon telefon så den fungerar endast på datorer.
+
+#### Sammanfattning av hela arbetet
+
+##### Uppgiften har hjälpt mig utveckla mina kunskaper inom programmering och webbutveckling. Den gick ut på att man skulle skapa en hemsida om sig själv, vilket jag har gjort. Slutgiltigt blev resultatet bra och hemsidan fungerar som den ska.
 
 ### Kod
 ```html
