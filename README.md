@@ -94,6 +94,7 @@ Project in school
 #### Nackdelar
 
 ##### Animationen av pilen till baren fungerade inte så bra, därför var jag tvungen att ta bort den och istället låta den hoppa från en sida till en annan. Tyvärr så har jag inte heller anpassat hemsidan till någon telefon så den fungerar endast på datorer.
+##### Tidslinjen blev inte som den skulle. Jag var kluven om jag skulle koda eller bara photoshopa. Jag valde till slut att photoshopa bilden och det ledde till att jag inte så enkelt kunnat lägga in länken till min uppsats "[Internets Historia](C:\Users\tisgot17maray\Downloads\Sociala medier (3).docx)". Detta var för att bilden blev alldeles för stor och jag fick svårigheter med att göra något mer med hemsidan. Min dator kunde inte hantera det och slockna flertalet gånger.
 
 #### Sammanfattning av hela arbetet
 
