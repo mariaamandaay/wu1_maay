@@ -101,4 +101,335 @@ Project in school
 
 ### Kod
 ```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Marias Portfolio</title>
+    <!-- Imports the web fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab"
+      rel="stylesheet"
+    />
+
+    <!-- Imports css -->
+    <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="./colors.css" />
+
+    <!-- Imports bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <nav class="container-fluid">
+      <ul class="nav nav-fill">
+        <li class="nav-item" id="profile">
+          <div>
+            <img src="images/010-worker.svg" />
+            <a>Profile</a>
+            <div class="bottom-bar dark-orange"></div>
+            <canvas
+              class="arrow"
+              id="profile-arrow"
+              width="100px"
+              height="100px"
+            ></canvas>
+          </div>
+        </li>
+        <li class="nav-item">
+          <div id="studies">
+            <img src="images/006-student.svg" />
+            <a>Studies</a>
+            <div class="bottom-bar light-orange"></div>
+            <canvas
+              class="arrow"
+              id="studies-arrow"
+              width="100px"
+              height="100px"
+            ></canvas>
+          </div>
+        </li>
+        <li class="nav-item">
+          <div id="jobs">
+            <img src="images/008-bag.svg" />
+            <a>Jobs</a>
+            <div class="bottom-bar lime-green"></div>
+            <canvas
+              class="arrow"
+              id="jobs-arrow"
+              width="100px"
+              height="100px"
+            ></canvas>
+          </div>
+        </li>
+        <li class="nav-item">
+          <div id="skills">
+            <img src="images/009-wrench-1.svg" />
+            <a>Skills</a>
+            <div class="bottom-bar dark-green"></div>
+            <canvas
+              class="arrow"
+              id="skills-arrow"
+              width="100px"
+              height="100px"
+            ></canvas>
+          </div>
+        </li>
+        <li class="nav-item">
+          <div id="future">
+            <img src="images/007-smart-glasses-1.svg" />
+            <a>Future</a>
+            <div class="bottom-bar baby-blue"></div>
+            <canvas
+              class="arrow"
+              id="future-arrow"
+              width="100px"
+              height="100px"
+            ></canvas>
+          </div>
+        </li>
+        <li class="nav-item">
+          <div id="contact">
+            <img src="images/card.svg" />
+            <a>Contact</a>
+            <div class="bottom-bar black"></div>
+            <canvas
+              class="arrow"
+              id="contact-arrow"
+              width="100px"
+              height="100px"
+            ></canvas>
+          </div>
+        </li>
+      </ul>
+    </nav>
+    <main class="container-fluid">
+      <div id="profile-content" class="row align-items-center content">
+        <div class="col-8">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+          interdum sed leo ut pharetra. Donec interdum ex in libero varius, nec
+          rhoncus lacus finibus. Praesent vitae urna fermentum, ullamcorper sem
+          id, consectetur enim. Curabitur tristique, leo sed placerat faucibus,
+          sem risus egestas massa, in interdum ligula erat ut sem. Donec sed
+          dictum justo, id lobortis quam. Aliquam vestibulum odio et mauris
+          accumsan rutrum. Vivamus pulvinar velit a nulla tempor ultrices. Orci
+          varius natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. In eget varius odio. Integer et blandit risus. Donec
+          est nisl, ornare at vestibulum eu, dapibus non justo. Duis augue ex,
+          imperdiet at arcu sit amet, finibus viverra libero. Morbi purus neque,
+          laoreet sed pellentesque placerat, sagittis et ligula. Sed blandit
+          mauris id dui efficitur mattis id ac augue. Ut nec fringilla ipsum.
+          Donec sed enim erat. Proin nec magna et orci blandit ullamcorper.
+          Nullam viverra sed lacus ut ultrices. Nunc in purus a nibh ultricies
+          tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Pellentesque interdum sed leo ut pharetra. Donec interdum ex in libero
+          varius, nec rhoncus lacus finibus. Praesent vitae urna fermentum,
+          ullamcorper sem id, consectetur enim. Curabitur tristique, leo sed
+          placerat faucibus, sem risus egestas massa, in interdum ligula erat ut
+          sem. Donec sed dictum justo, id lobortis quam. Aliquam vestibulum odio
+          et mauris accumsan rutrum. Vivamus pulvinar velit a nulla tempor
+          ultrices. Orci varius natoque penatibus et magnis dis parturient
+          montes, nascetur ridiculus mus. In eget varius odio. Integer et
+          blandit
+        </div>
+        <div class="col-4">
+          <img src="./images/001-employee.svg" />
+        </div>
+      </div>
+      <div id="studies-content" class="row align-items-center content">
+        <img src="./images/Tidslinje.jpg" />
+      </div>
+      <div id="jobs-content" class="row align-items-center content">
+        <div class="col-4">
+          <img src="./images/cashier-machine.svg" />
+          <div class="mt-5">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Pellentesque interdum sed leo ut pharetra. Donec interdum ex in
+            libero varius, nec rhoncus lacus finibus. Praesent vitae urna
+            fermentum, ullamcorper sem id, consectetur enim. Curabitur
+            tristique, leo sed placerat faucibus, sem risus egestas massa, in
+            interdum ligula erat ut sem. Donec sed dictum justo, id lobortis
+            quam. Aliquam vestibulum odio et mauris accumsan rutrum. Vivamus
+            pulvinar velit a nulla tempor ultrices. Orci varius natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            In eget varius odio. Integer et blandit risus. Donec est nisl,
+            ornare at vestibulum eu, dapibus non justo. Duis augue ex, imperdiet
+            at arcu sit amet, finibus viverra libero.
+          </div>
+        </div>
+        <div class="col-4">
+          <img src="./images/salesman.svg" />
+          <div class="mt-5">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Pellentesque interdum sed leo ut pharetra. Donec interdum ex in
+            libero varius, nec rhoncus lacus finibus. Praesent vitae urna
+            fermentum, ullamcorper sem id, consectetur enim. Curabitur
+            tristique, leo sed placerat faucibus, sem risus egestas massa, in
+            interdum ligula erat ut sem. Donec sed dictum justo, id lobortis
+            quam. Aliquam vestibulum odio et mauris accumsan rutrum. Vivamus
+            pulvinar velit a nulla tempor ultrices. Orci varius natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            In eget varius odio. Integer et blandit risus. Donec est nisl,
+            ornare at vestibulum eu, dapibus non justo. Duis augue ex, imperdiet
+            at arcu sit amet, finibus viverra libero.
+          </div>
+        </div>
+        <div class="col-4">
+          <img src="./images/warehouse.svg" />
+          <div class="mt-5">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Pellentesque interdum sed leo ut pharetra. Donec interdum ex in
+            libero varius, nec rhoncus lacus finibus. Praesent vitae urna
+            fermentum, ullamcorper sem id, consectetur enim. Curabitur
+            tristique, leo sed placerat faucibus, sem risus egestas massa, in
+            interdum ligula erat ut sem. Donec sed dictum justo, id lobortis
+            quam. Aliquam vestibulum odio et mauris accumsan rutrum. Vivamus
+            pulvinar velit a nulla tempor ultrices. Orci varius natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            In eget varius odio. Integer et blandit risus. Donec est nisl,
+            ornare at vestibulum eu, dapibus non justo. Duis augue ex, imperdiet
+            at arcu sit amet, finibus viverra libero.
+          </div>
+        </div>
+      </div>
+      <div id="skills-content" class="row align-items-center content">
+        <div class="col-6">
+          <img src="./images/skill.svg" />
+        </div>
+        <div class="col-6">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+          interdum sed leo ut pharetra. Donec interdum ex in libero varius, nec
+          rhoncus lacus finibus. Praesent vitae urna fermentum, ullamcorper sem
+          id, consectetur enim. Curabitur tristique, leo sed placerat faucibus,
+          sem risus egestas massa, in interdum ligula erat ut sem. Donec sed
+          dictum justo, id lobortis quam. Aliquam vestibulum odio et mauris
+          accumsan rutrum. Vivamus pulvinar velit a nulla tempor ultrices. Orci
+          varius natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. In eget varius odio. Integer et blandit risus. Donec
+          est nisl, ornare at vestibulum eu, dapibus non justo. Duis augue ex,
+          imperdiet at arcu sit amet, finibus viverra libero. Lorem ipsum dolor
+          sit amet, consectetur adipiscing elit. Pellentesque interdum sed leo
+          ut pharetra. Donec interdum ex in libero varius, nec rhoncus lacus
+          finibus. Praesent vitae urna fermentum, ullamcorper sem id,
+          consectetur enim. Curabitur tristique, leo sed placerat faucibus, sem
+          risus egestas massa, in interdum ligula erat ut sem. Donec sed dictum
+          justo, id lobortis quam. Aliquam vestibulum odio et mauris accumsan
+          rutrum. Vivamus pulvinar velit a nulla tempor ultrices. Orci varius
+          natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+          mus. In eget varius odio. Integer et blandit risus. Donec est nisl,
+          ornare at vestibulum eu, dapibus non justo. Duis augue ex, imperdiet
+          at arcu sit amet, finibus viverra libero. Lorem ipsum dolor sit amet,
+          consectetur adipiscing elit. Pellentesque interdum sed leo ut
+          pharetra. Donec interdum ex in libero varius, nec rhoncus lacus
+          finibus. Praesent vitae urna fermentum, ullamcorper sem id,
+          consectetur enim. Curabitur tristique, leo sed placerat faucibus, sem
+          risus egestas massa, in interdum ligula erat ut sem. Donec sed dictum
+          justo, id lobortis quam. Aliquam vestibulum odio et mauris accumsan
+          rutrum. Vivamus pulvinar velit a nulla tempor ultrices. Orci varius
+          natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+          mus. In eget varius odio. Integer et blandit risus. Donec est nisl,
+          ornare at vestibulum eu, dapibus non justo. Duis augue ex, imperdiet
+          at arcu sit amet, finibus viverra libero.
+        </div>
+      </div>
+      <div id="future-content" class="row align-items-center content">
+        <div class="col-3 col-centered">
+          <img src="./images/planet-earth.svg" width="290px" height="290px" />
+        </div>
+        <div class="col-5 col-centered">
+          <div class="mb-5">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Pellentesque interdum sed leo ut pharetra. Donec interdum ex in
+            libero varius, nec rhoncus lacus finibus. Praesent vitae urna
+            fermentum, ullamcorper sem id, consectetur enim. Curabitur
+            tristique, leo sed placerat faucibus, sem risus egestas massa, in
+            interdum ligula erat ut sem. Donec sed dictum justo, id lobortis
+            quam. Aliquam vestibulum odio et mauris accumsan rutrum. Vivamus
+            pulvinar velit a nulla tempor ultrices. Orci varius natoque
+            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            In eget varius odio. Integer et blandit risus. Donec est nisl,
+            ornare at vestibulum eu, dapibus non justo. Duis augue ex, imperdiet
+            at arcu sit amet, finibus viverra libero.
+          </div>
+          <div class="row align-items-center">
+            <div class="col-8 col-centered">
+              <img src="./images/mars.svg" width="236px" height="236px" />
+            </div>
+            <div class="col-4 col-centered">
+              <img src="./images/spaceship.svg" width="99px" height="99px" />
+            </div>
+          </div>
+        </div>
+        <div class="col-4 col-centered">
+          <img src="./images/jupiter.svg" width="487px" height="487px" />
+        </div>
+      </div>
+      <div id="contact-content" class="row align-items-center content">
+        <div class="col-4 col-centered">
+          <img src="./images/IMG_4076.jpg" id="profile-pic" />
+          <div class="mt-5">
+            <h2>Contact Me</h2>
+            <form
+              action="mailto:maria.ay01@hotmail.com"
+              method="POST"
+              enctype="text/plain"
+              class="form-group"
+            >
+              <label for="firstname">First name:</label>
+              <input
+                class="form-control"
+                type="text"
+                name="firstname"
+                placeholder="First name"
+              /><br />
+              <label for="lastname">Last name:</label>
+              <input
+                class="form-control"
+                type="text"
+                name="lastname"
+                placeholder="Last name"
+              /><br />
+              <label for="email">E mail:</label>
+              <input
+                class="form-control"
+                type="email"
+                name="email"
+                placeholder="E mail"
+              /><br />
+              <label for="message">Message:</label>
+              <textarea class="form-control" name="message" rows="3"></textarea
+              ><br />
+              <input
+                class="form-control"
+                class="btn-success mt-5"
+                type="submit"
+                value="Send"
+              />
+            </form>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="./index.js"></script>
+  </body>
+</html>
 
